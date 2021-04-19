@@ -1,7 +1,7 @@
 # Hackintosh
 Including my opencore EFI,some hack tips maybe.  
 ## 我的机型  
-![](https://cdn.jsdelivr.net/gh/Mzaxd/blog-img/MyHackintosh.png)
+![MyHackintosh](https://cdn.jsdelivr.net/gh/Mzaxd/blog-img/MyHackintosh.png)
 > CPU：I7-6700K（核显HD530）  
 主板：技嘉Z170-HD3  
 显卡：GT640（戴尔OEM版）  
