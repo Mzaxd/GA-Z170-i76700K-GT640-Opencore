@@ -3,7 +3,7 @@ Including my opencore EFI,some hack tips maybe.
 
 
 ## 我的机型  
-![MyHackintosh](https://github.com/Mzaxd/blog-img/blob/main/20210419095208.png)
+![MyHackintosh](https://github.com/Mzaxd/blog-img/blob/main/MyHackintosh.png)
 > CPU：I7-6700K（核显HD530）  
 > 主板：技嘉Z170-HD3  
 > 显卡：GT640（戴尔OEM版）  
