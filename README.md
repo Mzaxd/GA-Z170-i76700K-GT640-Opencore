@@ -14,7 +14,7 @@ Including my opencore EFI,some hack tips maybe.
 
 ## Issue
 - **目前HD530不能跑满1.15G 有负载时只能在0.35-0.4G波动 HD530can not run at 1.15G**  
-- **在插了独显以后Windows下Chrome无法核显硬解 我也不知道为什么 而GT640无法流畅播放4K视频 HD530 not work in Windows**
+- **在插了独显以后Windows下Chrome无法核显硬解 我也不知道为什么 而GT640无法流畅播放4K视频 HD530 doesn't work in Windows**
 
 
 ## 补充
