@@ -18,7 +18,7 @@ Including my opencore EFI,some hack tips maybe.
 <br/>
 
 ## Tips
-- 在选在Intel6-9代CPU的时候尽量避免Z170 Z270 Z370 无论HD530 HD630 UHD630在搭配以上主板的时候均有可能发生无法完美驱动核显的情况  
+- 在选泽Intel6-9代CPU的时候尽量避免Z170 Z270 Z370 无论HD530 HD630 UHD630在搭配以上主板的时候均有可能发生无法完美驱动核显的情况  
 - 据我所知10代CPU搭配LGA1200的主板依然会有核显问题 所以最好的选择还是9代U+Z390/B360
 <br/>
 
